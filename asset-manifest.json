@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/holiday-react-app/static/css/main.b8ba89e2.chunk.css",
+    "main.js": "/holiday-react-app/static/js/main.15843b6e.chunk.js",
+    "main.js.map": "/holiday-react-app/static/js/main.15843b6e.chunk.js.map",
+    "runtime-main.js": "/holiday-react-app/static/js/runtime-main.29270642.js",
+    "runtime-main.js.map": "/holiday-react-app/static/js/runtime-main.29270642.js.map",
+    "static/js/2.86889368.chunk.js": "/holiday-react-app/static/js/2.86889368.chunk.js",
+    "static/js/2.86889368.chunk.js.map": "/holiday-react-app/static/js/2.86889368.chunk.js.map",
+    "index.html": "/holiday-react-app/index.html",
+    "precache-manifest.1b266a2f1b4925f3b430592e4d907d04.js": "/holiday-react-app/precache-manifest.1b266a2f1b4925f3b430592e4d907d04.js",
+    "service-worker.js": "/holiday-react-app/service-worker.js",
+    "static/css/main.b8ba89e2.chunk.css.map": "/holiday-react-app/static/css/main.b8ba89e2.chunk.css.map",
+    "static/js/2.86889368.chunk.js.LICENSE.txt": "/holiday-react-app/static/js/2.86889368.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/holiday-react-app/static/media/logo.b2e431c3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29270642.js",
+    "static/js/2.86889368.chunk.js",
+    "static/css/main.b8ba89e2.chunk.css",
+    "static/js/main.15843b6e.chunk.js"
+  ]
+}
