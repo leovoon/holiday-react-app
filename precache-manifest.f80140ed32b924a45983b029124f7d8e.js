@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7af0ea077645fcc1ca4997dbcec33da9",
+    "revision": "26b5b55dcbfa84115218e118da3ec7bd",
     "url": "/holiday-react-app/index.html"
   },
   {
-    "revision": "87d5c046847fa6464b6d",
+    "revision": "b89cf74beb894dab6e7a",
     "url": "/holiday-react-app/static/css/main.b8ba89e2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/holiday-react-app/static/js/2.86889368.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "87d5c046847fa6464b6d",
-    "url": "/holiday-react-app/static/js/main.15843b6e.chunk.js"
+    "revision": "b89cf74beb894dab6e7a",
+    "url": "/holiday-react-app/static/js/main.6113f05e.chunk.js"
   },
   {
     "revision": "ffed715f8620daebeaef",
